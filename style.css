@@ -1,0 +1,10 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    display: flex;
+    justify-content:space-around;
+}
+img{
+    border: 2px;
+    border-color: yellow;
+}
